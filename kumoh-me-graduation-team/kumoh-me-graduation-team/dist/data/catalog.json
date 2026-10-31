@@ -1,0 +1,6048 @@
+{
+  "source": {
+    "fileName": "교과목 자료.xlsx",
+    "sha256": "f00fd0ef51cd3b7692c38a2101fc692a431c7e132960ae010f5ad83f413eee4a",
+    "reviewed": "2026-10-30",
+    "authored": null,
+    "sheets": [
+      "기본사항",
+      "필수 과목",
+      "선택 과목",
+      "학적",
+      "SSU반도체융합전공과목",
+      "AI로봇 융합전공 과목"
+    ],
+    "scope": "사용자 제공 자료. 실제 학기별 강좌 개설표가 아닌 교육과정 편성 정보."
+  },
+  "courses": [
+    {
+      "code": "LA0299",
+      "name": "글쓰기와발표",
+      "category": "기초교양",
+      "year": 1,
+      "semesters": [
+        1
+      ],
+      "credits": 2,
+      "designCredits": 0,
+      "certified": "필수",
+      "noncertified": "필수",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "필수 과목",
+          "range": "A3:N3"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0365",
+      "name": "글로벌커뮤니케이션",
+      "category": "기초교양",
+      "year": 1,
+      "semesters": [
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "필수",
+      "noncertified": "필수",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "필수 과목",
+          "range": "A4:N4"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0366",
+      "name": "디지털문해력",
+      "category": "기초교양",
+      "year": 1,
+      "semesters": [
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "필수",
+      "noncertified": "필수",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "필수 과목",
+          "range": "A5:N5"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0500",
+      "name": "대학수학1",
+      "category": "학문기초",
+      "year": 1,
+      "semesters": [
+        1
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "필수",
+      "noncertified": "필수",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "필수 과목",
+          "range": "A6:N6"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0501",
+      "name": "일반물리학1",
+      "category": "학문기초",
+      "year": 1,
+      "semesters": [
+        1
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "필수",
+      "noncertified": "필수",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "필수 과목",
+          "range": "A7:N7"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0502",
+      "name": "일반물리학실험1",
+      "category": "학문기초",
+      "year": 1,
+      "semesters": [
+        1
+      ],
+      "credits": 1,
+      "designCredits": 0,
+      "certified": "필수",
+      "noncertified": "필수",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "필수 과목",
+          "range": "A8:N8"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0503",
+      "name": "일반화학1",
+      "category": "학문기초",
+      "year": 1,
+      "semesters": [
+        1
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "필수",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "필수 과목",
+          "range": "A9:N9"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0505",
+      "name": "대학수학2",
+      "category": "학문기초",
+      "year": 1,
+      "semesters": [
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "필수",
+      "noncertified": "필수",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "필수 과목",
+          "range": "A10:N10"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0506",
+      "name": "일반물리학2",
+      "category": "학문기초",
+      "year": 1,
+      "semesters": [
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "필수",
+      "noncertified": "필수",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "필수 과목",
+          "range": "A11:N11"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0507",
+      "name": "일반물리학실험2",
+      "category": "학문기초",
+      "year": 1,
+      "semesters": [
+        2
+      ],
+      "credits": 1,
+      "designCredits": 0,
+      "certified": "필수",
+      "noncertified": "필수",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "필수 과목",
+          "range": "A12:N12"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0511",
+      "name": "공학수학1",
+      "category": "학문기초",
+      "year": 2,
+      "semesters": [
+        1
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "필수",
+      "noncertified": "필수",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "필수 과목",
+          "range": "A13:N13"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0516",
+      "name": "컴퓨터프로그래밍언어",
+      "category": "학문기초",
+      "year": 2,
+      "semesters": [
+        1
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "필수",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "필수 과목",
+          "range": "A14:N14"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0512",
+      "name": "공학수학2",
+      "category": "학문기초",
+      "year": 2,
+      "semesters": [
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "필수",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "필수 과목",
+          "range": "A15:N15"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0029",
+      "name": "확률및통계",
+      "category": "학문기초",
+      "year": 3,
+      "semesters": [
+        1
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "필수",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "필수 과목",
+          "range": "A16:N16"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "CA0001",
+      "name": "창의설계입문",
+      "category": "전공필수",
+      "year": 1,
+      "semesters": [
+        1
+      ],
+      "credits": 3,
+      "designCredits": 3,
+      "certified": "필수",
+      "noncertified": "필수",
+      "ssu": "",
+      "equivalents": "스마트기계: 설계입문 (RM0027)",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "필수 과목",
+          "range": "A17:N17"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "CA1004",
+      "name": "고체역학1",
+      "category": "전공필수",
+      "year": 2,
+      "semesters": [
+        1
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "필수",
+      "noncertified": "필수",
+      "ssu": "SSU고체역학1 (SK0007)",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "필수",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "필수 과목",
+          "range": "A18:N18"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "CA1005",
+      "name": "열역학",
+      "category": "전공필수",
+      "year": 2,
+      "semesters": [
+        1
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "필수",
+      "noncertified": "필수",
+      "ssu": "SSU열역학 (SK0008)",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "필수",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "필수 과목",
+          "range": "A19:N19"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "CA1002",
+      "name": "컴퓨터원용제도",
+      "category": "전공필수",
+      "year": 2,
+      "semesters": [
+        1
+      ],
+      "credits": 2,
+      "designCredits": 1,
+      "certified": "필수",
+      "noncertified": "필수",
+      "ssu": "SSU컴퓨터원용제도 (SK0009)",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "필수 과목",
+          "range": "A20:N20"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "CA1008",
+      "name": "동역학",
+      "category": "전공필수",
+      "year": 2,
+      "semesters": [
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "필수",
+      "noncertified": "필수",
+      "ssu": "SSU동역학 (SK0019)",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "필수 과목",
+          "range": "A21:N21"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "CA1009",
+      "name": "유체역학",
+      "category": "전공필수",
+      "year": 2,
+      "semesters": [
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "필수",
+      "noncertified": "필수",
+      "ssu": "SSU유체역학1 (SK0021)",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "필수",
+      "linkedRecognition": "그린에너지 / 창업",
+      "sources": [
+        {
+          "sheet": "필수 과목",
+          "range": "A22:N22"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "CA1007",
+      "name": "기계공학기초실험",
+      "category": "전공필수",
+      "year": 3,
+      "semesters": [
+        1
+      ],
+      "credits": 1,
+      "designCredits": 0,
+      "certified": "필수",
+      "noncertified": "필수",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "필수 과목",
+          "range": "A23:N23"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "CA1011",
+      "name": "기계요소설계",
+      "category": "전공필수",
+      "year": 3,
+      "semesters": [
+        1
+      ],
+      "credits": 3,
+      "designCredits": 2,
+      "certified": "필수",
+      "noncertified": "필수",
+      "ssu": "SSU기계요소설계1 (SK0037)",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "창업",
+      "sources": [
+        {
+          "sheet": "필수 과목",
+          "range": "A24:N24"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "CA1012",
+      "name": "기계공작법",
+      "category": "전공필수",
+      "year": 3,
+      "semesters": [
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "필수",
+      "noncertified": "필수",
+      "ssu": "",
+      "equivalents": "스마트기계: 스마트제조 (RM0016)",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "필수 과목",
+          "range": "A25:N25"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "CA1013",
+      "name": "기계공학응용실험",
+      "category": "전공필수",
+      "year": 3,
+      "semesters": [
+        2
+      ],
+      "credits": 1,
+      "designCredits": 0,
+      "certified": "필수",
+      "noncertified": "필수",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "필수 과목",
+          "range": "A26:N26"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "CA1014",
+      "name": "기계공학과제1(캡스톤디자인)",
+      "category": "전공필수",
+      "year": 3,
+      "semesters": [
+        2
+      ],
+      "credits": 2,
+      "designCredits": 2,
+      "certified": "필수",
+      "noncertified": "필수",
+      "ssu": "SSUPBL기반반도체융합프로젝트2 (SK0095)",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "필수 과목",
+          "range": "A27:N27"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "CA1016",
+      "name": "기계공학과제2(캡스톤디자인)",
+      "category": "전공필수",
+      "year": 4,
+      "semesters": [
+        1
+      ],
+      "credits": 2,
+      "designCredits": 2,
+      "certified": "필수",
+      "noncertified": "필수",
+      "ssu": "SSUPBL기반반도체융합프로젝트1 (SK0086)",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "필수 과목",
+          "range": "A28:N28"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "CA1036",
+      "name": "기계공학창의종합설계",
+      "category": "전공필수",
+      "year": 4,
+      "semesters": [
+        1
+      ],
+      "credits": 3,
+      "designCredits": 3,
+      "certified": "필수",
+      "noncertified": "필수",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "필수 과목",
+          "range": "A29:N29"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0211",
+      "name": "사회봉사1",
+      "category": "일반교양(교선)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 1,
+      "designCredits": 0,
+      "certified": "2025이후 \n필수",
+      "noncertified": "2025이후 \n필수",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "필수 과목",
+          "range": "A32:N32"
+        },
+        {
+          "sheet": "선택 과목",
+          "range": "A110:N110"
+        }
+      ],
+      "alternateNotes": [
+        {
+          "A": "일반교양-문화·예술·체육·사회공헌 (2025: 자율선택)",
+          "B": "LA0211",
+          "C": "사회봉사1",
+          "E": "1·2",
+          "F": "1",
+          "G": "0",
+          "H": "선택",
+          "I": "선택",
+          "N": "2024 기준 자율선택"
+        }
+      ]
+    },
+    {
+      "code": "CA0003",
+      "name": "정역학",
+      "category": "전공선택",
+      "year": 1,
+      "semesters": [
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A3:N3"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "CA1017",
+      "name": "기구학",
+      "category": "전공선택",
+      "year": 2,
+      "semesters": [
+        1
+      ],
+      "credits": 3,
+      "designCredits": 1,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "SSU기구학 (SK0006)",
+      "equivalents": "AI로봇: AIRO기구학 (AK0005)",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A4:N4"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "CA1019",
+      "name": "고체역학2",
+      "category": "전공선택",
+      "year": 2,
+      "semesters": [
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "SSU고체역학2 (SK0020)",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "그린에너지 / 창업",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A5:N5"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "CA1020",
+      "name": "컴퓨터원용설계",
+      "category": "전공선택",
+      "year": 2,
+      "semesters": [
+        2
+      ],
+      "credits": 3,
+      "designCredits": 2,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "SSU컴퓨터원용설계 (SK0023)",
+      "equivalents": "스마트기계: CAD심화 (RM0021)",
+      "microdegree": "전산설계 및 해석마스터",
+      "minorRequired": "",
+      "linkedRecognition": "창업",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A6:N6"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "CA1025",
+      "name": "기계재료학",
+      "category": "전공선택",
+      "year": 2,
+      "semesters": [
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A7:N7"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "CA1018",
+      "name": "전기전자공학기초",
+      "category": "전공선택",
+      "year": 3,
+      "semesters": [
+        1
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "SSU메카트로닉스기초 (SK0036)",
+      "equivalents": "스마트기계: 전기전자공학 (RM0015) / AI로봇: AIRO메카트로닉스기초 (AK0002)",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A8:N8"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "CA1022",
+      "name": "진동공학",
+      "category": "전공선택",
+      "year": 3,
+      "semesters": [
+        1
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "스마트기계: 기계진동 (RM0017) / AI로봇: AIRO기계진동학 (AK0001)",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A9:N9"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "CA1023",
+      "name": "열전달",
+      "category": "전공선택",
+      "year": 3,
+      "semesters": [
+        1
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "SSU열전달 (SK0059)",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A10:N10"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "CA1024",
+      "name": "수치해석",
+      "category": "전공선택",
+      "year": 3,
+      "semesters": [
+        1
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "전산설계 및 해석마스터",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A11:N11"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "CA1029",
+      "name": "응용열역학",
+      "category": "전공선택",
+      "year": 3,
+      "semesters": [
+        1
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A12:N12"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "CA1026",
+      "name": "유체기계",
+      "category": "전공선택",
+      "year": 3,
+      "semesters": [
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "스마트기계: 유체기계 (RM0024)",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A13:N13"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "CA1027",
+      "name": "기계제어",
+      "category": "전공선택",
+      "year": 3,
+      "semesters": [
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "SSU자동제어 (SK0056)",
+      "equivalents": "스마트기계: 자동제어 (RM0026) / AI로봇: AIRO자동제어 (AK0019)",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A14:N14"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "CA1028",
+      "name": "응용열유체공학",
+      "category": "전공선택",
+      "year": 3,
+      "semesters": [
+        2
+      ],
+      "credits": 3,
+      "designCredits": 1,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "SSU응용열유체공학 (SK0049)",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A15:N15"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "CA1030",
+      "name": "냉동및공기조화",
+      "category": "전공선택",
+      "year": 3,
+      "semesters": [
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "스마트기계: 냉동및공기조화 (RM0020)",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A16:N16"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "CA1057",
+      "name": "동력공학",
+      "category": "전공선택",
+      "year": 3,
+      "semesters": [
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A17:N17"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "CA1058",
+      "name": "최적설계",
+      "category": "전공선택",
+      "year": 3,
+      "semesters": [
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "SSU최적설계 (SK0061)",
+      "equivalents": "창업: 창의적사고와기술혁신 (SU1002)",
+      "microdegree": "전산설계 및 해석마스터",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A18:N18"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "CA1032",
+      "name": "전산유체공학",
+      "category": "전공선택",
+      "year": 4,
+      "semesters": [
+        1
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "SSU전산유체공학 (SK0060)",
+      "equivalents": "",
+      "microdegree": "전산설계 및 해석마스터",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A19:N19"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "CA1033",
+      "name": "그린에너지공학",
+      "category": "전공선택",
+      "year": 4,
+      "semesters": [
+        1
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "그린에너지",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A20:N20"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "CA1059",
+      "name": "로봇공학",
+      "category": "전공선택",
+      "year": 4,
+      "semesters": [
+        1
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "SSU로봇공학 (SK0075)",
+      "equivalents": "AI로봇: AIRO로봇공학 (AK0036)",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A21:N21"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "CA1060",
+      "name": "모빌리티공학",
+      "category": "전공선택",
+      "year": 4,
+      "semesters": [
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "스마트기계: 자동차공학 (RM0025)",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A22:N22"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "CA1038",
+      "name": "유한요소법",
+      "category": "전공선택",
+      "year": 4,
+      "semesters": [
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "스마트기계: 구조해석 (RM0022)",
+      "microdegree": "전산설계 및 해석마스터",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A23:N23"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "CA1039",
+      "name": "그린에너지시스템",
+      "category": "전공선택",
+      "year": 4,
+      "semesters": [
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "그린에너지",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A24:N24"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "CA1056",
+      "name": "반도체공정개론",
+      "category": "전공선택",
+      "year": 4,
+      "semesters": [
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "SSU반도체장비개론 (SK0076)",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A25:N25"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0200",
+      "name": "인간과심리",
+      "category": "균형교양-인간과사상 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A32:N32"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0355",
+      "name": "성과사랑의심리학",
+      "category": "균형교양-인간과사상 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A33:N33"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0367",
+      "name": "철학에의초대",
+      "category": "균형교양-인간과사상 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A34:N34"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0381",
+      "name": "서양철학인물열전",
+      "category": "균형교양-인간과사상 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A35:N35"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0183",
+      "name": "한국의역사",
+      "category": "균형교양-인간과사상 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A36:N36"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0377",
+      "name": "한국의문화유산",
+      "category": "균형교양-인간과사상 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A37:N37"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0300",
+      "name": "세계의역사",
+      "category": "균형교양-인간과사상 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A38:N38"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0271",
+      "name": "세계문화의이해",
+      "category": "균형교양-인간과사상 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A39:N39"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0327",
+      "name": "한국사상의이해",
+      "category": "균형교양-인간과사상 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A40:N40"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0328",
+      "name": "현대사회사상의이해",
+      "category": "균형교양-인간과사상 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A41:N41"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0276",
+      "name": "한국근현대사의이해",
+      "category": "균형교양-인간과사상 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A42:N42"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0275",
+      "name": "직업과윤리",
+      "category": "균형교양-인간과사상 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A43:N43"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0326",
+      "name": "공학윤리",
+      "category": "균형교양-인간과사상 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A44:N44"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0262",
+      "name": "매스컴과사회",
+      "category": "균형교양-정치와사회 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A45:N45"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0277",
+      "name": "기술과사회",
+      "category": "균형교양-정치와사회 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A46:N46"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0297",
+      "name": "시사토픽의이해",
+      "category": "균형교양-정치와사회 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A47:N47"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0206",
+      "name": "남북한분단과통일",
+      "category": "균형교양-정치와사회 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A48:N48"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0203",
+      "name": "현대사회의쟁점",
+      "category": "균형교양-정치와사회 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A49:N49"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0334",
+      "name": "정치학입문",
+      "category": "균형교양-정치와사회 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A50:N50"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0352",
+      "name": "동북아시아의국제정치",
+      "category": "균형교양-정치와사회 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A51:N51"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0333",
+      "name": "세계화와국제관계",
+      "category": "균형교양-정치와사회 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A52:N52"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0364",
+      "name": "국제관계사",
+      "category": "균형교양-정치와사회 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A53:N53"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0353",
+      "name": "국제사회의분쟁과공존",
+      "category": "균형교양-정치와사회 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A54:N54"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0429",
+      "name": "다문화사회와글로컬시민의식",
+      "category": "균형교양-정치와사회 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A55:N55"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0304",
+      "name": "기업가정신과리더십",
+      "category": "균형교양-정치와사회 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A56:N56"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0165",
+      "name": "법률과생활",
+      "category": "균형교양-정치와사회 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A57:N57"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0362",
+      "name": "IT법의이해",
+      "category": "균형교양-정치와사회 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A58:N58"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0204",
+      "name": "인공지능과법",
+      "category": "균형교양-정치와사회 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A59:N59"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0363",
+      "name": "스타트업을위한법률",
+      "category": "균형교양-정치와사회 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A60:N60"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0370",
+      "name": "현대사회와지식재산",
+      "category": "균형교양-정치와사회 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A61:N61"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0289",
+      "name": "시장경제의이해",
+      "category": "균형교양-정치와사회 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A62:N62"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0332",
+      "name": "문학과인생",
+      "category": "균형교양-언어와문학 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A63:N63"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0428",
+      "name": "명쾌한국어",
+      "category": "균형교양-언어와문학 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A64:N64"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0378",
+      "name": "직무화법과프레젠테이션",
+      "category": "균형교양-언어와문학 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A65:N65"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0294",
+      "name": "교양한문",
+      "category": "균형교양-언어와문학 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A66:N66"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0371",
+      "name": "독서와소통",
+      "category": "균형교양-언어와문학 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A67:N67"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0376",
+      "name": "SF와과학적상상력",
+      "category": "균형교양-언어와문학 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A68:N68"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0382",
+      "name": "직무글쓰기",
+      "category": "균형교양-언어와문학 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A69:N69"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0368",
+      "name": "한국고전문학과콘텐츠",
+      "category": "균형교양-언어와문학 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A70:N70"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0369",
+      "name": "K-문화의이해와감상",
+      "category": "균형교양-언어와문학 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A71:N71"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0325",
+      "name": "한국문학의이해",
+      "category": "균형교양-언어와문학 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A72:N72"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0322",
+      "name": "문화와예술",
+      "category": "균형교양-언어와문학 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A73:N73"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0296",
+      "name": "동양고전의지혜",
+      "category": "균형교양-언어와문학 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A74:N74"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0265",
+      "name": "연극의이해",
+      "category": "균형교양-언어와문학 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A75:N75"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0267",
+      "name": "영화와문학",
+      "category": "균형교양-언어와문학 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A76:N76"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0292",
+      "name": "과학기술영어독해",
+      "category": "균형교양-언어와문학 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A77:N77"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0374",
+      "name": "귀가뚫리는영어",
+      "category": "균형교양-언어와문학 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A78:N78"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0286",
+      "name": "실용영문법",
+      "category": "균형교양-언어와문학 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A79:N79"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0375",
+      "name": "영화로배우는영어",
+      "category": "균형교양-언어와문학 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A80:N80"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0324",
+      "name": "미디어영어독해와청취",
+      "category": "균형교양-언어와문학 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A81:N81"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0236",
+      "name": "실용영어",
+      "category": "균형교양-언어와문학 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 3,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A82:N82"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0313",
+      "name": "영어회화1",
+      "category": "균형교양-언어와문학 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 2,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A83:N83"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0314",
+      "name": "영어회화2",
+      "category": "균형교양-언어와문학 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 2,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A84:N84"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0372",
+      "name": "일본어기초",
+      "category": "균형교양-언어와문학 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 2,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A85:N85"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0379",
+      "name": "일본어회화",
+      "category": "균형교양-언어와문학 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 2,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A86:N86"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0373",
+      "name": "중국어기초",
+      "category": "균형교양-언어와문학 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 2,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A87:N87"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0380",
+      "name": "중국어회화",
+      "category": "균형교양-언어와문학 (2025: 영역 1과목 이상 필수)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 2,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A88:N88"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0264",
+      "name": "리더십과커뮤니케이션",
+      "category": "일반교양-창업·경영 (2025: 자율선택)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 2,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A89:N89"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0422",
+      "name": "지속가능경영과ESG",
+      "category": "일반교양-창업·경영 (2025: 자율선택)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 2,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A90:N90"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0345",
+      "name": "콘텐츠전략과서비스기획",
+      "category": "일반교양-창업·경영 (2025: 자율선택)",
+      "year": null,
+      "semesters": [
+        1
+      ],
+      "credits": 2,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A91:N91"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0318",
+      "name": "창업아이디어와비즈니스모델",
+      "category": "일반교양-창업·경영 (2025: 자율선택)",
+      "year": null,
+      "semesters": [
+        2
+      ],
+      "credits": 2,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A92:N92"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0420",
+      "name": "생활재테크",
+      "category": "일반교양-창업·경영 (2025: 자율선택)",
+      "year": null,
+      "semesters": [
+        1
+      ],
+      "credits": 2,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A93:N93"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0421",
+      "name": "미디어로보는회계",
+      "category": "일반교양-창업·경영 (2025: 자율선택)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 2,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A94:N94"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0311",
+      "name": "창업마케팅",
+      "category": "일반교양-창업·경영 (2025: 자율선택)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 2,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A95:N95"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0430",
+      "name": "취업전략과이미지메이킹",
+      "category": "일반교양-창업·경영 (2025: 자율선택)",
+      "year": null,
+      "semesters": [
+        2
+      ],
+      "credits": 2,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A96:N96"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0224",
+      "name": "과학사개론",
+      "category": "일반교양-과학·기술 (2025: 자율선택)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 2,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A97:N97"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0423",
+      "name": "빅데이터와의사결정",
+      "category": "일반교양-과학·기술 (2025: 자율선택)",
+      "year": null,
+      "semesters": [
+        1
+      ],
+      "credits": 2,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A98:N98"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0424",
+      "name": "모두를위한아두이노",
+      "category": "일반교양-과학·기술 (2025: 자율선택)",
+      "year": null,
+      "semesters": [
+        2
+      ],
+      "credits": 2,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A99:N99"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0427",
+      "name": "생성형AI를활용한문제해결",
+      "category": "일반교양-과학·기술 (2025: 자율선택)",
+      "year": null,
+      "semesters": [
+        2
+      ],
+      "credits": 2,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A100:N100"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0339",
+      "name": "4차산업혁명의이해",
+      "category": "일반교양-과학·기술 (2025: 자율선택)",
+      "year": null,
+      "semesters": [
+        2
+      ],
+      "credits": 2,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A101:N101"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0426",
+      "name": "우리생활속의과학",
+      "category": "일반교양-과학·기술 (2025: 자율선택)",
+      "year": null,
+      "semesters": [
+        1
+      ],
+      "credits": 2,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A102:N102"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0425",
+      "name": "디자인씽킹",
+      "category": "일반교양-과학·기술 (2025: 자율선택)",
+      "year": null,
+      "semesters": [
+        1
+      ],
+      "credits": 2,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A103:N103"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0114",
+      "name": "음악의이해",
+      "category": "일반교양-문화·예술·체육·사회공헌 (2025: 자율선택)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 2,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A104:N104"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0257",
+      "name": "미술의이해",
+      "category": "일반교양-문화·예술·체육·사회공헌 (2025: 자율선택)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 2,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A105:N105"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0431",
+      "name": "예술과와인으로배우는글로벌매너",
+      "category": "일반교양-문화·예술·체육·사회공헌 (2025: 자율선택)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 2,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A106:N106"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0122",
+      "name": "체육",
+      "category": "일반교양-문화·예술·체육·사회공헌 (2025: 자율선택)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 2,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A107:N107"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0207",
+      "name": "현대생활과스포츠",
+      "category": "일반교양-문화·예술·체육·사회공헌 (2025: 자율선택)",
+      "year": null,
+      "semesters": [
+        1
+      ],
+      "credits": 2,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A108:N108"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0258",
+      "name": "운동과건강",
+      "category": "일반교양-문화·예술·체육·사회공헌 (2025: 자율선택)",
+      "year": null,
+      "semesters": [
+        2
+      ],
+      "credits": 2,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A109:N109"
+        }
+      ],
+      "alternateNotes": []
+    },
+    {
+      "code": "LA0212",
+      "name": "사회봉사2",
+      "category": "일반교양-문화·예술·체육·사회공헌 (2025: 자율선택)",
+      "year": null,
+      "semesters": [
+        1,
+        2
+      ],
+      "credits": 1,
+      "designCredits": 0,
+      "certified": "선택",
+      "noncertified": "선택",
+      "ssu": "",
+      "equivalents": "",
+      "microdegree": "",
+      "minorRequired": "",
+      "linkedRecognition": "2024 기준 자율선택",
+      "sources": [
+        {
+          "sheet": "선택 과목",
+          "range": "A111:N111"
+        }
+      ],
+      "alternateNotes": []
+    }
+  ],
+  "programCourses": [
+    {
+      "code": "SK0007",
+      "name": "SSU고체역학1",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "양식 기재 과목 / p28 / CA1004 고체역학1 동일인정",
+      "sameAs": [
+        "CA1004"
+      ],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G5:V5"
+      }
+    },
+    {
+      "code": "SK0008",
+      "name": "SSU열역학",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "양식 기재 과목 / p28 / CA1005 열역학 동일인정",
+      "sameAs": [
+        "CA1005"
+      ],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G6:V6"
+      }
+    },
+    {
+      "code": "SK0009",
+      "name": "SSU컴퓨터원용제도",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "양식 기재 과목 / p28 / CA1002 컴퓨터원용제도 동일인정",
+      "sameAs": [
+        "CA1002"
+      ],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G7:V7"
+      }
+    },
+    {
+      "code": "SK0129",
+      "name": "SSU기계제도및CAD",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "양식 기재 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G8:V8"
+      }
+    },
+    {
+      "code": "SK0006",
+      "name": "SSU기구학",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "양식 기재 과목 / p28 / CA1017 기구학 동일인정",
+      "sameAs": [
+        "CA1017"
+      ],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G9:V9"
+      }
+    },
+    {
+      "code": "SK0019",
+      "name": "SSU동역학",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "양식 기재 과목 / p28 / CA1008 동역학 동일인정",
+      "sameAs": [
+        "CA1008"
+      ],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G10:V10"
+      }
+    },
+    {
+      "code": "SK0021",
+      "name": "SSU유체역학1",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "양식 기재 과목 / p28 / CA1009 유체역학 동일인정",
+      "sameAs": [
+        "CA1009"
+      ],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G11:V11"
+      }
+    },
+    {
+      "code": "SK0020",
+      "name": "SSU고체역학2",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "양식 기재 과목 / p28 / CA1019 고체역학2 동일인정",
+      "sameAs": [
+        "CA1019"
+      ],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G12:V12"
+      }
+    },
+    {
+      "code": "SK0023",
+      "name": "SSU컴퓨터원용설계",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "양식 기재 과목 / p28 / CA1020 컴퓨터원용설계 동일인정",
+      "sameAs": [
+        "CA1020"
+      ],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G13:V13"
+      }
+    },
+    {
+      "code": "SK0037",
+      "name": "SSU기계요소설계1",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "양식 기재 과목 / p28 / CA1011 기계요소설계 동일인정",
+      "sameAs": [
+        "CA1011"
+      ],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G14:V14"
+      }
+    },
+    {
+      "code": "SK0038",
+      "name": "SSU유체역학2",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "양식 기재 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G15:V15"
+      }
+    },
+    {
+      "code": "SK0036",
+      "name": "SSU메카트로닉스기초",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "양식 기재 과목 / p28 / CA1018 전기전자공학기초 동일인정",
+      "sameAs": [
+        "CA1018"
+      ],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G16:V16"
+      }
+    },
+    {
+      "code": "SK0059",
+      "name": "SSU열전달",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "양식 기재 과목 / p28 / CA1023 열전달 동일인정",
+      "sameAs": [
+        "CA1023"
+      ],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G17:V17"
+      }
+    },
+    {
+      "code": "SK0056",
+      "name": "SSU자동제어",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "양식 기재 과목 / p28 / CA1027 기계제어 동일인정",
+      "sameAs": [
+        "CA1027"
+      ],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G18:V18"
+      }
+    },
+    {
+      "code": "SK0057",
+      "name": "SSU계측공학",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "양식 기재 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G19:V19"
+      }
+    },
+    {
+      "code": "SK0058",
+      "name": "SSU기계요소설계2",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "양식 기재 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G20:V20"
+      }
+    },
+    {
+      "code": "SK0130",
+      "name": "SSU시스템열전달",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "양식 기재 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G21:V21"
+      }
+    },
+    {
+      "code": "SK0049",
+      "name": "SSU응용열유체공학",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "양식 기재 과목 / p28 / CA1028 응용열유체공학 동일인정",
+      "sameAs": [
+        "CA1028"
+      ],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G22:V22"
+      }
+    },
+    {
+      "code": "SK0061",
+      "name": "SSU최적설계",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "양식 기재 과목 / p28 / CA1058 최적설계 동일인정",
+      "sameAs": [
+        "CA1058"
+      ],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G23:V23"
+      }
+    },
+    {
+      "code": "SK0048",
+      "name": "SSU반도체융합특론1",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "양식 기재 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G24:V24"
+      }
+    },
+    {
+      "code": "SK0105",
+      "name": "SSU기업주도교과목1",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "양식 기재 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G25:V25"
+      }
+    },
+    {
+      "code": "SK0068",
+      "name": "SSU반도체융합특론2",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "양식 기재 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G26:V26"
+      }
+    },
+    {
+      "code": "SK0106",
+      "name": "SSU기업주도교과목2",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "양식 기재 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G27:V27"
+      }
+    },
+    {
+      "code": "SK0075",
+      "name": "SSU로봇공학",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "양식 기재 과목 / p29 / CA1059 로봇공학 동일인정",
+      "sameAs": [
+        "CA1059"
+      ],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G28:V28"
+      }
+    },
+    {
+      "code": "SK0093",
+      "name": "SSU나노공정장비실습",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "양식 기재 과목 / p29",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G29:V29"
+      }
+    },
+    {
+      "code": "SK0060",
+      "name": "SSU전산유체공학",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "양식 기재 과목 / p29 / CA1032 전산유체공학 동일인정",
+      "sameAs": [
+        "CA1032"
+      ],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G30:V30"
+      }
+    },
+    {
+      "code": "SK0077",
+      "name": "SSU반도체장비전산설계",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "양식 기재 과목 / p29",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G31:V31"
+      }
+    },
+    {
+      "code": "SK0092",
+      "name": "SSU반도체장비계측및제어",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "양식 기재 과목 / p29",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G32:V32"
+      }
+    },
+    {
+      "code": "SK0131",
+      "name": "SSU반도체소재및공정설계",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "양식 기재 과목 / p29",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G33:V33"
+      }
+    },
+    {
+      "code": "SK0076",
+      "name": "SSU반도체장비개론",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "양식 기재 과목 / p29 / CA1056 반도체공정개론 동일인정",
+      "sameAs": [
+        "CA1056"
+      ],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G34:V34"
+      }
+    },
+    {
+      "code": "SK0096",
+      "name": "SSU미세유체공학",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "양식 기재 과목 / p29",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G35:V35"
+      }
+    },
+    {
+      "code": "SK0094",
+      "name": "SSU반도체장비전산해석",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "양식 기재 과목 / p29",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G36:V36"
+      }
+    },
+    {
+      "code": "SK0086",
+      "name": "SSUPBL기반반도체융합프로젝트1",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "양식 기재 과목 / p29 / CA1016 기계공학과제2(캡스톤디자인) 동일인정",
+      "sameAs": [
+        "CA1016"
+      ],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G37:V37"
+      }
+    },
+    {
+      "code": "SK0078",
+      "name": "SSU반도체융합특론3",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "양식 기재 과목 / p29",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G38:V38"
+      }
+    },
+    {
+      "code": "SK0137",
+      "name": "SSU기업주도교과목3",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "양식 기재 과목 / p29",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G39:V39"
+      }
+    },
+    {
+      "code": "SK0095",
+      "name": "SSUPBL기반반도체융합프로젝트2",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "양식 기재 과목 / p29 / CA1014 기계공학과제1(캡스톤디자인) 동일인정",
+      "sameAs": [
+        "CA1014"
+      ],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G40:V40"
+      }
+    },
+    {
+      "code": "SK0104",
+      "name": "SSU반도체융합특론4",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "양식 기재 과목 / p29",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G41:V41"
+      }
+    },
+    {
+      "code": "SK0138",
+      "name": "SSU기업주도교과목4",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "양식 기재 과목 / p29",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G42:V42"
+      }
+    },
+    {
+      "code": "SK0001",
+      "name": "SSU전자기학1",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G43:V43"
+      }
+    },
+    {
+      "code": "SK0013",
+      "name": "SSU전자기학2",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G44:V44"
+      }
+    },
+    {
+      "code": "SK0002",
+      "name": "SSU기하광학",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G45:V45"
+      }
+    },
+    {
+      "code": "SK0014",
+      "name": "SSU파동광학",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G46:V46"
+      }
+    },
+    {
+      "code": "SK0003",
+      "name": "SSU재료열역학1",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G47:V47"
+      }
+    },
+    {
+      "code": "SK0015",
+      "name": "SSU반도체분석광학",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G48:V48"
+      }
+    },
+    {
+      "code": "SK0004",
+      "name": "SSU재료과학1",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G49:V49"
+      }
+    },
+    {
+      "code": "SK0016",
+      "name": "SSU재료열역학2",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G50:V50"
+      }
+    },
+    {
+      "code": "SK0005",
+      "name": "SSU전기전자공학",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G51:V51"
+      }
+    },
+    {
+      "code": "SK0017",
+      "name": "SSU재료과학2",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G52:V52"
+      }
+    },
+    {
+      "code": "SK0018",
+      "name": "SSU전자기적특성평가",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G53:V53"
+      }
+    },
+    {
+      "code": "SK0010",
+      "name": "SSU논리회로",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G54:V54"
+      }
+    },
+    {
+      "code": "SK0011",
+      "name": "SSU회로이론1",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G55:V55"
+      }
+    },
+    {
+      "code": "SK0024",
+      "name": "SSU전자회로1",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G56:V56"
+      }
+    },
+    {
+      "code": "SK0026",
+      "name": "SSUC언어응용실습",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G57:V57"
+      }
+    },
+    {
+      "code": "SK0029",
+      "name": "SSU물리전자",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G58:V58"
+      }
+    },
+    {
+      "code": "SK0107",
+      "name": "SSU논리회로실험",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G59:V59"
+      }
+    },
+    {
+      "code": "SK0039",
+      "name": "SSU전자회로실험",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G60:V60"
+      }
+    },
+    {
+      "code": "SK0108",
+      "name": "SSU전기전자회로기초",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G61:V61"
+      }
+    },
+    {
+      "code": "SK0041",
+      "name": "SSU마이크로프로세서및실습",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G62:V62"
+      }
+    },
+    {
+      "code": "SK0109",
+      "name": "SSU기초회로실험",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G63:V63"
+      }
+    },
+    {
+      "code": "SK0110",
+      "name": "SSU전기전자회로심화",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G64:V64"
+      }
+    },
+    {
+      "code": "SK0135",
+      "name": "SSU전산구조해석",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G65:V65"
+      }
+    },
+    {
+      "code": "SK0133",
+      "name": "SSU전기전자회로",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G66:V66"
+      }
+    },
+    {
+      "code": "SK0139",
+      "name": "SSU회로이론2",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G67:V67"
+      }
+    },
+    {
+      "code": "SK0134",
+      "name": "SSU3D모델링",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G68:V68"
+      }
+    },
+    {
+      "code": "SK0025",
+      "name": "SSU인공지능1",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G69:V69"
+      }
+    },
+    {
+      "code": "SK0045",
+      "name": "SSU반도체물리",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G70:V70"
+      }
+    },
+    {
+      "code": "SK0027",
+      "name": "SSUHDL설계",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G71:V71"
+      }
+    },
+    {
+      "code": "SK0031",
+      "name": "SSU고체물리학",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G72:V72"
+      }
+    },
+    {
+      "code": "SK0050",
+      "name": "SSU진공및박막공학",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G73:V73"
+      }
+    },
+    {
+      "code": "SK0032",
+      "name": "SSU전자재료1",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G74:V74"
+      }
+    },
+    {
+      "code": "SK0051",
+      "name": "SSU전자재료2",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G75:V75"
+      }
+    },
+    {
+      "code": "SK0033",
+      "name": "SSU세라믹물성1",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G76:V76"
+      }
+    },
+    {
+      "code": "SK0053",
+      "name": "SSU세라믹물성2",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G77:V77"
+      }
+    },
+    {
+      "code": "SK0034",
+      "name": "SSU세라믹공정",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G78:V78"
+      }
+    },
+    {
+      "code": "SK0055",
+      "name": "SSU패키징소재및공정",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G79:V79"
+      }
+    },
+    {
+      "code": "SK0035",
+      "name": "SSU재료분석법",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G80:V80"
+      }
+    },
+    {
+      "code": "SK0040",
+      "name": "SSU전자회로2",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G81:V81"
+      }
+    },
+    {
+      "code": "SK0062",
+      "name": "SSU임베디드시스템및실습",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G82:V82"
+      }
+    },
+    {
+      "code": "SK0046",
+      "name": "SSU반도체공정장비",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G83:V83"
+      }
+    },
+    {
+      "code": "SK0065",
+      "name": "SSU화합물반도체에피성장실습",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G84:V84"
+      }
+    },
+    {
+      "code": "SK0066",
+      "name": "SSU반도체공정실습",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G85:V85"
+      }
+    },
+    {
+      "code": "SK0117",
+      "name": "SSU마이크로파회로설계",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G86:V86"
+      }
+    },
+    {
+      "code": "SK0118",
+      "name": "SSU전자반도체공학2",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G87:V87"
+      }
+    },
+    {
+      "code": "SK0111",
+      "name": "SSU통신공학1",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G88:V88"
+      }
+    },
+    {
+      "code": "SK0119",
+      "name": "SSU통신공학2",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G89:V89"
+      }
+    },
+    {
+      "code": "SK0112",
+      "name": "SSU전송선이론",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G90:V90"
+      }
+    },
+    {
+      "code": "SK0120",
+      "name": "SSU컴퓨터계측및제어",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G91:V91"
+      }
+    },
+    {
+      "code": "SK0113",
+      "name": "SSU전자반도체공학1",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G92:V92"
+      }
+    },
+    {
+      "code": "SK0114",
+      "name": "SSU마이크로프로세서및응용",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G93:V93"
+      }
+    },
+    {
+      "code": "SK0136",
+      "name": "SSU반도체소자설계(TCAD)",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G94:V94"
+      }
+    },
+    {
+      "code": "SK0115",
+      "name": "SSU디지털시스템설계및실습",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G95:V95"
+      }
+    },
+    {
+      "code": "SK0141",
+      "name": "SSU인공지능2",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G96:V96"
+      }
+    },
+    {
+      "code": "SK0116",
+      "name": "SSU반도체공학",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G97:V97"
+      }
+    },
+    {
+      "code": "SK0142",
+      "name": "SSU제어시스템",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p28",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G98:V98"
+      }
+    },
+    {
+      "code": "SK0064",
+      "name": "SSU반도체소자물리",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p29",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G99:V99"
+      }
+    },
+    {
+      "code": "SK0087",
+      "name": "SSU웨이퍼단결정성장및분석",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p29",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G100:V100"
+      }
+    },
+    {
+      "code": "SK0070",
+      "name": "SSU화합물반도체공학",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p29",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G101:V101"
+      }
+    },
+    {
+      "code": "SK0088",
+      "name": "SSU반도체챔버소재부품",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p29",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G102:V102"
+      }
+    },
+    {
+      "code": "SK0071",
+      "name": "SSU정보디스플레이공학",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p29",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G103:V103"
+      }
+    },
+    {
+      "code": "SK0090",
+      "name": "SSU표면처리공학",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p29",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G104:V104"
+      }
+    },
+    {
+      "code": "SK0072",
+      "name": "SSU전자세라믹스",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p29",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G105:V105"
+      }
+    },
+    {
+      "code": "SK0091",
+      "name": "SSU반도체패키징테스팅및신뢰성평가",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p29",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G106:V106"
+      }
+    },
+    {
+      "code": "SK0073",
+      "name": "SSU반도체공정및장비",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p29",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G107:V107"
+      }
+    },
+    {
+      "code": "SK0074",
+      "name": "SSU반도체결함계측공학",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p29",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G108:V108"
+      }
+    },
+    {
+      "code": "SK0100",
+      "name": "SSU지능형반도체소자설계및공정실습",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p29",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G109:V109"
+      }
+    },
+    {
+      "code": "SK0079",
+      "name": "SSU아날로그집적회로",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p29",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G110:V110"
+      }
+    },
+    {
+      "code": "SK0101",
+      "name": "SSUWBG반도체소자설계및공정실습",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p29",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G111:V111"
+      }
+    },
+    {
+      "code": "SK0082",
+      "name": "SSU고주파반도체소자공정실험",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p29",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G112:V112"
+      }
+    },
+    {
+      "code": "SK0102",
+      "name": "SSU센서반도체소자설계및공정실습",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p29",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G113:V113"
+      }
+    },
+    {
+      "code": "SK0089",
+      "name": "SSU반도체챔버소재공정및평가",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p29",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G114:V114"
+      }
+    },
+    {
+      "code": "SK0125",
+      "name": "SSUCMOSRF집적회로",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p29",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G115:V115"
+      }
+    },
+    {
+      "code": "SK0126",
+      "name": "SSU영상처리",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p29",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G116:V116"
+      }
+    },
+    {
+      "code": "SK0099",
+      "name": "SSU전력변환장치설계",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p29",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G117:V117"
+      }
+    },
+    {
+      "code": "SK0127",
+      "name": "SSU아날로그IC설계",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p29",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G118:V118"
+      }
+    },
+    {
+      "code": "SK0121",
+      "name": "SSU안테나공학",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p29",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G119:V119"
+      }
+    },
+    {
+      "code": "SK0128",
+      "name": "SSU반도체나노공정실험",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p29",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G120:V120"
+      }
+    },
+    {
+      "code": "SK0122",
+      "name": "SSU지능형임베디드시스템설계",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p29",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G121:V121"
+      }
+    },
+    {
+      "code": "SK0123",
+      "name": "SSU디스플레이반도체소자공정실험",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p29",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G122:V122"
+      }
+    },
+    {
+      "code": "SK0124",
+      "name": "SSU반도체공정",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p29",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G123:V123"
+      }
+    },
+    {
+      "code": "SK0132",
+      "name": "SSU웨이퍼공학",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p29",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G124:V124"
+      }
+    },
+    {
+      "code": "SK0140",
+      "name": "SSU제어공학",
+      "program": "SSU",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "전체편성 추가 과목 / p29",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "SSU반도체융합전공과목",
+        "range": "G125:V125"
+      }
+    },
+    {
+      "code": "AK0001",
+      "name": "AIRO기계진동학",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41 / CA1022 진동공학 동일인정",
+      "sameAs": [
+        "CA1022"
+      ],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G5:N5"
+      }
+    },
+    {
+      "code": "AK0002",
+      "name": "AIRO메카트로닉스기초",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41 / CA1018 전기전자공학기초 동일인정",
+      "sameAs": [
+        "CA1018"
+      ],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G6:N6"
+      }
+    },
+    {
+      "code": "AK0003",
+      "name": "AIRO시스템프로그래밍",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G7:N7"
+      }
+    },
+    {
+      "code": "AK0004",
+      "name": "AIRO시스템공학",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G8:N8"
+      }
+    },
+    {
+      "code": "AK0005",
+      "name": "AIRO기구학",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41 / CA1017 기구학 동일인정",
+      "sameAs": [
+        "CA1017"
+      ],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G9:N9"
+      }
+    },
+    {
+      "code": "AK0006",
+      "name": "AIRO전자시스템",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G10:N10"
+      }
+    },
+    {
+      "code": "AK0007",
+      "name": "AIRO인공지능수학",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G11:N11"
+      }
+    },
+    {
+      "code": "AK0008",
+      "name": "AIRO알고리즘1",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G12:N12"
+      }
+    },
+    {
+      "code": "AK0009",
+      "name": "AIRO영상처리",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G13:N13"
+      }
+    },
+    {
+      "code": "AK0010",
+      "name": "AIRO데이터공학",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G14:N14"
+      }
+    },
+    {
+      "code": "AK0011",
+      "name": "AIRO딥러닝",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G15:N15"
+      }
+    },
+    {
+      "code": "AK0012",
+      "name": "AIRO정보보안과블록체인",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G16:N16"
+      }
+    },
+    {
+      "code": "AK0013",
+      "name": "AIRO사물인터넷",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G17:N17"
+      }
+    },
+    {
+      "code": "AK0014",
+      "name": "AIRO메타버스실감기술",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G18:N18"
+      }
+    },
+    {
+      "code": "AK0015",
+      "name": "AIRO모바일프로그래밍",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G19:N19"
+      }
+    },
+    {
+      "code": "AK0016",
+      "name": "AIRO인공지능",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G20:N20"
+      }
+    },
+    {
+      "code": "AK0017",
+      "name": "AIRO센서및계측공학",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G21:N21"
+      }
+    },
+    {
+      "code": "AK0018",
+      "name": "AIRO제어공학",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G22:N22"
+      }
+    },
+    {
+      "code": "AK0019",
+      "name": "AIRO자동제어",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41 / CA1027 기계제어 동일인정",
+      "sameAs": [
+        "CA1027"
+      ],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G23:N23"
+      }
+    },
+    {
+      "code": "AK0020",
+      "name": "AIRO마이크로콘트롤러",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G24:N24"
+      }
+    },
+    {
+      "code": "AK0021",
+      "name": "AIRO머신러닝기초",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G25:N25"
+      }
+    },
+    {
+      "code": "AK0022",
+      "name": "AIRO계측공학",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G26:N26"
+      }
+    },
+    {
+      "code": "AK0023",
+      "name": "AIRO로봇운영체계",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G27:N27"
+      }
+    },
+    {
+      "code": "AK0024",
+      "name": "AIRO로봇비전시스템",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G28:N28"
+      }
+    },
+    {
+      "code": "AK0025",
+      "name": "AIRO리눅스활용및프로그래밍",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G29:N29"
+      }
+    },
+    {
+      "code": "AK0026",
+      "name": "AIROIoT기초설계",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G30:N30"
+      }
+    },
+    {
+      "code": "AK0027",
+      "name": "AIRO임베디드시스템",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G31:N31"
+      }
+    },
+    {
+      "code": "AK0028",
+      "name": "AIRO강화학습",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G32:N32"
+      }
+    },
+    {
+      "code": "AK0029",
+      "name": "AIRO심화인공지능",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G33:N33"
+      }
+    },
+    {
+      "code": "AK0030",
+      "name": "AIRO스마트앱프로그래밍",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G34:N34"
+      }
+    },
+    {
+      "code": "AK0031",
+      "name": "AIRO컴퓨터그래픽스",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G35:N35"
+      }
+    },
+    {
+      "code": "AK0032",
+      "name": "AIRO모터제어",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G36:N36"
+      }
+    },
+    {
+      "code": "AK0033",
+      "name": "AIRO임베디드시스템및실습",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G37:N37"
+      }
+    },
+    {
+      "code": "AK0034",
+      "name": "AIRO이동로봇설계",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G38:N38"
+      }
+    },
+    {
+      "code": "AK0035",
+      "name": "AIRO로봇동역학",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G39:N39"
+      }
+    },
+    {
+      "code": "AK0036",
+      "name": "AIRO로봇공학",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41 / CA1059 로봇공학 동일인정",
+      "sameAs": [
+        "CA1059"
+      ],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G40:N40"
+      }
+    },
+    {
+      "code": "AK0037",
+      "name": "AIRO딥러닝기초",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G41:N41"
+      }
+    },
+    {
+      "code": "AK0038",
+      "name": "AIRO자율주행시뮬레이션",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G42:N42"
+      }
+    },
+    {
+      "code": "AK0039",
+      "name": "AIRO컴퓨터비전",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G43:N43"
+      }
+    },
+    {
+      "code": "AK0040",
+      "name": "AIRO자연어처리",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G44:N44"
+      }
+    },
+    {
+      "code": "AK0041",
+      "name": "AIRO시공간데이터분석",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G45:N45"
+      }
+    },
+    {
+      "code": "AK0042",
+      "name": "AIRO현대제어",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G46:N46"
+      }
+    },
+    {
+      "code": "AK0043",
+      "name": "AIRO자율비행드론",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G47:N47"
+      }
+    },
+    {
+      "code": "AK0044",
+      "name": "AIRO로봇제어시스템",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G48:N48"
+      }
+    },
+    {
+      "code": "AK0045",
+      "name": "AIRO로봇진동소음시스템",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G49:N49"
+      }
+    },
+    {
+      "code": "AK0046",
+      "name": "PBL기반AI로봇융합프로젝트",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41 / 별도 이수요건상 필수",
+      "sameAs": [],
+      "required": true,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G50:N50"
+      }
+    },
+    {
+      "code": "AK0047",
+      "name": "AIRO커널및시스템프로그래밍",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G51:N51"
+      }
+    },
+    {
+      "code": "AK0048",
+      "name": "AIRO최신인공지능기술",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G52:N52"
+      }
+    },
+    {
+      "code": "AK0049",
+      "name": "AIRO빅데이터",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G53:N53"
+      }
+    },
+    {
+      "code": "AK0050",
+      "name": "AIRO클라우드컴퓨팅",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G54:N54"
+      }
+    },
+    {
+      "code": "AK0051",
+      "name": "AIRO로봇응용시스템",
+      "program": "AIRO",
+      "year": null,
+      "semesters": [],
+      "credits": null,
+      "note": "p41",
+      "sameAs": [],
+      "required": null,
+      "source": {
+        "sheet": "AI로봇 융합전공 과목",
+        "range": "G55:N55"
+      }
+    }
+  ],
+  "programs": [
+    {
+      "name": "복수전공",
+      "application": "2학년부터 / 지정기간 신청",
+      "requirement": "복수전공 39학점 이상 + 양 전공 전공필수 + 필요한 학문기초",
+      "recognition": "최대 9학점까지 복수전공학점 인정",
+      "award": "두 개 전공 학위",
+      "mechanical": "기계공학을 복수전공으로 할 경우 기계공학 전공필수 확인 필요",
+      "note": "졸업 130학점과 복수전공 39학점은 같은 개념이 아님. 주전공 이수기준도 별도 충족",
+      "source": "학적!A23:G23"
+    },
+    {
+      "name": "부전공",
+      "application": "2학년부터 / 지정기간 신청",
+      "requirement": "부전공 지정필수 9학점 이상 포함 총 21학점 이상",
+      "recognition": "동일 전공과목 최대 6학점까지 부전공학점 인정",
+      "award": "주전공 + 부전공 이수",
+      "mechanical": "기계공학 부전공 지정필수: 열역학·고체역학1·유체역학 = 9학점",
+      "note": "지정필수 9학점만 이수하면 완료가 아니라 총 21학점 이상 필요",
+      "source": "학적!A24:G24"
+    },
+    {
+      "name": "마이크로디그리",
+      "application": "2025 이후 과정은 통합정보시스템에서 이수 신청/인정 절차",
+      "requirement": "기계공학 '전산설계 및 해석마스터' 12학점(교육과정표 기준)",
+      "recognition": "별도 최대 중복수치는 확인된 자료에서 명시되지 않음",
+      "award": "이수 완료 시 학적부·졸업증명서·성적증명서에 표기",
+      "mechanical": "CA1020·CA1024·CA1032·CA1038·CA1058로 구성",
+      "note": "과정/소속에 따라 전선·일선 등 이수구분 처리 방식이 달라질 수 있음",
+      "source": "학적!A25:G25"
+    },
+    {
+      "name": "연계전공",
+      "application": "과정별 신청·선발 기준 확인",
+      "requirement": "과정별 교육과정 이수",
+      "recognition": "현장실습은 연계전공 최대 6학점 인정(특정 창업실습 이수 시 최대 9학점)",
+      "award": "주전공과 별도 추가이수 과정",
+      "mechanical": "그린에너지·창업 등 기계공학 중복인정 교과목 존재",
+      "note": "현장실습 인정한도를 연계전공 전체 중복인정 한도로 해석하지 않음",
+      "source": "학적!A26:G26"
+    },
+    {
+      "name": "SSU반도체융합전공",
+      "application": "소정의 선발 절차",
+      "requirement": "36학점 이상 + 트랙 이수요건(교육과정표)",
+      "recognition": "동일인정 최대 15학점 / 2학년 교과 최대 9학점",
+      "award": "융합전공 추가이수 과정",
+      "mechanical": "기계공학과 SSU 동일인정 교과목 다수",
+      "note": "동일인정 한도와 전체 융합전공 이수학점은 별개",
+      "source": "학적!A27:G27"
+    },
+    {
+      "name": "AI로봇 융합전공",
+      "application": "소정의 선발 절차",
+      "requirement": "30학점 이상 + PBL 기반 AI로봇 융합 프로젝트",
+      "recognition": "동일인정 최대 9학점",
+      "award": "융합전공 추가이수 과정",
+      "mechanical": "기구학·전기전자공학기초·진동공학·기계제어·로봇공학 동일인정",
+      "note": "동일인정 과목 수가 많아도 인정학점 상한 적용",
+      "source": "학적!A28:G28"
+    }
+  ],
+  "warnings": [
+    "SSU·AI로봇 과목의 학기·학점은 원문 미기재",
+    "기초교양 과목별 필수 표기는 구학번에 일괄 적용하지 않음",
+    "사회봉사1 중복행은 과목코드로 통합",
+    "취업진로교육 A52 학기 표기와 과정명 불일치",
+    "MD 5개 후보 과목과 12학점 요건의 선택 규칙은 별도 확인"
+  ]
+}

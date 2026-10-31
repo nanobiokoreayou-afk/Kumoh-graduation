@@ -1,0 +1,18 @@
+{
+  "prepared_date_kst": "2026-10-31",
+  "source_commit": "930e9cdece68247e2de61607b556b3b2ef7b771d",
+  "purpose": "Private GitHub collaboration export",
+  "excluded": [
+    "Git history and source remote configuration",
+    "Sites hosting binding",
+    "student transcript and extracted student records",
+    "credentials and local runtime files"
+  ],
+  "export_additions": [
+    "team onboarding guide",
+    "Codex team instructions",
+    "PR template",
+    "Node test workflow",
+    "portable browser QA launch"
+  ]
+}

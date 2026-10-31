@@ -1,0 +1,12 @@
+{
+  "name": "kumoh-me-graduation-guide",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node checks/requirements.test.mjs && node checks/recommendations.test.mjs && node checks/academic.test.mjs"
+  },
+  "dependencies": {
+    "pdfjs-dist": "6.4.299",
+    "tesseract.js": "7.0.0"
+  }
+}
